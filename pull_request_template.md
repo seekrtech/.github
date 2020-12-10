@@ -2,10 +2,11 @@
 
 - [ ] 錯誤修正 (bug fix)
 - [ ] 新功能 (feature)
+- [ ] 例行維護（regular maintenance）
 - [ ] 程式碼語法改進 (code style update)
 - [ ] 重構 (refactor)
 - [ ] 自動化腳本改動 (automation-related changes)
-- [ ] 其他，請說明
+- [ ] 其他，請說明：
 
 ## 簡要說明此 PR 改動部分
 *在此加入說明*
