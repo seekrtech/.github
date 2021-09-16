@@ -1,3 +1,5 @@
+<h1 align="center">Seekrtech</h1>
+
 Seekrtech believes that better selves build a better world.
 We also understand the journey of self-improvement is full of challenges.
 
